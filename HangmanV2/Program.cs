@@ -72,7 +72,7 @@
                     Console.Write($"The word does not contain {chosenLetter}, you have {currentLives} lives left.");
                 }
 
-
+                Console.WriteLine("test");
 
 
             }
